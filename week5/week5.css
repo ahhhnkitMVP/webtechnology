@@ -1,0 +1,45 @@
+body{
+background-color: darkgreen;
+color:white;
+}
+h1{
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    max-width:45%;
+   /** margin-left: 100px;**/
+   margin-left: 100px;    
+}
+h2{
+    margin-left: 100px;
+    margin-top: -20px;
+    font-size: 30px;
+
+}
+.venue{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+input{
+    margin-left: 100px;
+    margin-top: 20px;
+    width: fit-content;
+    font-size: 20px;
+    background-color:orange;
+    color: black;
+    border: none;
+    border-radius: 50px;
+    padding: 20px;
+    font-weight: bold;
+
+}
+.image{
+    text-align: right;
+    margin-top: -400px;
+}
+img{
+    height: 800px;
+    width: 52%;
+}
+
+
+
