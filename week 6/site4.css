@@ -1,0 +1,29 @@
+body{
+    background-color:darkred;
+    color:white;
+}
+h1{
+    text-align: right;
+    margin-top: -630px;
+    font-size: 60px;
+    margin-right: 190px;
+    
+
+}
+p{
+    max-width: 20%; 
+    margin-left: 920px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+img{
+    height: 800px;
+    width:55%;
+    margin-left: -10px;
+
+}
+.image{
+    text-align: left;
+    
+
+}
